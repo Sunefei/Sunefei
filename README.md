@@ -1,4 +1,4 @@
-### Hi there, I'm Yifei Sun - u can also call me Ethan. 
+### Hi there, I'm Yifei Sun. 👋
 
 #### Here is [MyHomePage](https://sunefei.github.io/)
 
