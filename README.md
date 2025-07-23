@@ -1,4 +1,6 @@
-### Hi there, I'm Yifei Sun - u can also call me Ethan [MyHomePage][https://sunefei.github.io/]
+### Hi there, I'm Yifei Sun - u can also call me Ethan. 
+
+#### Here is [MyHomePage](https://sunefei.github.io/)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunefei&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
